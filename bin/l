@@ -1,0 +1,2 @@
+#!/bin/sh
+exec eza -l --icons --all -F --group-directories-first "$@"

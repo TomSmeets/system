@@ -1,0 +1,4 @@
+set print max-depth 2
+set print pretty
+set disassembly-flavor intel
+tui new-layout tom {-horizontal src 1 asm 1} 2 status 0 cmd 1
