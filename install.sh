@@ -17,7 +17,7 @@ ln -sfT $DIR/bin/c                  /usr/local/bin/c
 # Tom
 ln -sfT $DIR/config/helix           /home/tom/.config/helix
 ln -sfT $DIR/config/gdb             /home/tom/.config/gdb
-ln -sfT $DIR/config/alacritty.yml   /home/tom/.config/alacritty.yml
+ln -sfT $DIR/config/alacritty.toml  /home/tom/.config/alacritty.toml
 ln -sfT $DIR/prv/ssh-tom            /home/tom/.ssh
 
 FF_HOME=/home/tom/.mozilla/firefox/*.default-release
